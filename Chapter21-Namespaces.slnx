@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="CodingPractice\CodingPractice.csproj" />
+  <Project Path="GameSystem\GameSystem.csproj" />
+  <Project Path="GreetingMessage\GreetingMessage.csproj" />
+</Solution>
