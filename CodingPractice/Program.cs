@@ -1,4 +1,15 @@
 using System;
 
-// README.md를 읽고 아래에 코드를 작성하세요.
-Console.WriteLine("코드를 작성하세요.");
+
+//## 과제 3: using static 지시문
+using static System.Console;
+using static System.Math;
+
+WriteLine("Hello World!");
+
+double result = Sqrt(16);
+WriteLine($"제곱근: {result}");
+
+
+double maxValue = Max(10, 20);
+WriteLine($"최댓값: {maxValue}");
